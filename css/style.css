@@ -28,7 +28,7 @@ border-radius: 8px;
     justify-content: space-around;
 }
 /*Адаптив под айфон12*/
-@media screen and (max-width:500px){
+@media screen and (max-width:1080px){
     .container{
         /*background-color:chartreuse;*/
     }
@@ -41,3 +41,4 @@ border-radius: 8px;
     } 
 
 }
+
